@@ -1,0 +1,4 @@
+Input : aMiT sRIVasTAvA
+Output: Amit Srivastava
+
+Hint : Use Split, toUpperCase, toLowerCase, subString
