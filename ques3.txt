@@ -1,0 +1,6 @@
+ WAP to create a Counter function
+
+count(); 1
+count(); 2
+
+Note: Without define a global variable
