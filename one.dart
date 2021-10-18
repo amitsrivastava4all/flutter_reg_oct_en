@@ -1,13 +1,16 @@
 import 'dart:io';
 
+void takeNumber() {
+  try {
+    print("Enter the Range");
+    int range = int.parse(stdin.readLineSync().toString());
+    print("range is $range");
+  } catch (ex) {
+    print("U Enter Something Wrong... need to Enter b/w 0 to 9");
+    takeNumber();
+  }
+}
+
 void main() {
-  String name;
-  // name = "Amit";
-  print("Enter the Name");
-  name = stdin.readLineSync().toString();
-  print("Your Name is $name");
-  print("Hello Dart"); // \n
-  //stdout.write("Hi Dart");
-  stdout.writeln("Hi Dart2");
-  print("Ok Dart");
+  takeNumber();
 }
