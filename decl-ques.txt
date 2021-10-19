@@ -1,0 +1,6 @@
+Declarative Way to Solve
+1.  You Have List of Prices and find out the max price in list of prices
+2.  Count those prices which is >1000 Rs (try without where function)
+3.  Sort the names mix of capital and small letters in Dictionary Order
+4. Find the Average Price of given prices
+5. We have 2 price List , merge both of them in single list and remove the duplicates
