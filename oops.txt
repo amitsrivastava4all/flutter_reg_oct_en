@@ -1,0 +1,18 @@
+WAP to print Employee Salary Slip
+Take Id as an Input
+Take Name as an Input
+Take Basic Salary as an Input
+Phone, Email, City, Gender , Country, State, PinCode
+Print a Salary Slip
+Id - 1001
+Name - Ram Kumar Sharma (Proper Case)
+Basic Salary - Rs 9,000.00
+
+HRA - 50% of the Basic Salary (Compute & Print)
+DA - 10% of the Basic Salary (Compute & Print)
+TA - 20% of the Basic Salary (Compute & Print)
+MA- 15% of the Basic Salary (Compute & Print)
+PF - 5% of the Basic Salary (Compute & Print)
+GS - BS  + HRA + DA + TA + MA
+Tax - 10% of the GS
+NS - GS - TAX - PF
